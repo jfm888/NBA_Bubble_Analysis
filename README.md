@@ -1,6 +1,6 @@
 John Mahoney\
 Data 512\
-Project Proposal
+Autumn 2020
 
 # Analysis of 2019-20 NBA Season
 
