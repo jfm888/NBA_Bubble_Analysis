@@ -74,11 +74,11 @@ We rejected the null hypotheses in all cases and determined that within the boun
 
 ### Conclusion
 
-2019-20 season play was not significantly different than the ten previous years.\
+2019-20 season play was not significantly different than the ten previous years.
 
-Results of the 2019-20 season seem as legitimate as previous ten seasons based on game score.\
+Results of the 2019-20 season seem as legitimate as previous ten seasons based on game score.
 
-Further research could take a look at individual player performance between the regular season and the NBA Bubble playoffs, or aspects of team performance other than game score.\
+Further research could take a look at individual player performance between the regular season and the NBA Bubble playoffs, or aspects of team performance other than game score.
 
 Possible Takeaway: The NBA outcomes seem reasonably robust to schedule and format change, and may continue to be trusted during tumultuous times.
 
