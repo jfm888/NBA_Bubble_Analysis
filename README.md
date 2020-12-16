@@ -25,8 +25,13 @@ Data was from [Basketball-Reference](https://www.basketball-reference.com/league
 The above datasets are Excel files of tables downloaded from Basketball-Reference. The Schedule datasets contain a schedule of games and final scores for the last 11 seasons. Each tuple contains: Date, Start Time - Eastern, Visiting Team, Points Scored, Home Team, Points Scored. These datasets will be used to draw comparisons between regular season performance and playoff performance. Lastly, there are no ethical considerations to using this data, as no part of the data contains sensitive information, or anything that is not a matter of public record. All of this data is freely available and based solely on the public performance of professional basketball teams. 
 
 ### Research Questions and Hypotheses
-Question 1.a : Is stopping play at March 11th of a season enough to determine the best teams to send to the playoffs?
-Null Hypothesis 1.a : The remaining games after March 11th of regular season play have had no impact on playoff team selection over the last previous ten years if using the NBA Bubble selection method.
-
+Question 1.a : Is stopping play at March 11th of a season enough to determine the best teams to send to the playoffs?\
+Null Hypothesis 1.a : The remaining games after March 11th of regular season play have had no impact on playoff team selection over the last previous ten years if using the NBA Bubble selection method.\
+Question 1.b : Is stopping play at 75% of a season enough to determine the best teams to send to the playoffs?\
+Null Hypothesis 1.b : The last 25% of regular season play have had no impact on playoff team selection over the previous ten years if using the NBA Bubble selection method.\
+Question 1.a/1.b Rationale: The NBA regular season is 82 games long, the 2019-20 season was stopped at March 11th(about 75% of regular season games) for the Covid-19 pandemic. I trust the NBA and believe that the reduced season is enough to determine the best playoff teams, providing the NBA bubble selection method is used(top eight teams in both conferences as well as the next six best teams overall, 22 teams total) as this picks an extra six teams.\
+Question 2: Was play in the NBA Bubble significantly  different than in previous playoffs?\
+Null Hypothesis 2: The difference between team scoring during the regular season and during playoffs in the NBA Bubble is not significantly different than the mean regular season / playoff scoring differential over the last ten years\
+Question 2 Rationale: There was a five month break between regular season and playoff season play. This should be enough time for players to recover from injuries sustained during the regular season. Additionally this is enough time for teams to make adjustments on offense and defense in order to be more competitive. During the playoffs the teams lived in a quaranteened environment making it difficult for them to interact with friends, family and fans. My belief is that these many factors will affect teams equally and playoff play will not be significantly different compared to previous years.
 
 
